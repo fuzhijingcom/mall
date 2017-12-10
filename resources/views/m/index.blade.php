@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
     <title>商城</title>
     <link rel="stylesheet" href="/css/weui.min.css"/>
+    <script type="text/javascript" src="/js/vue.js"></script>
 <style type="text/css">
 body{background-color:#efeff4;-webkit-tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none
 }
